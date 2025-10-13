@@ -23,7 +23,7 @@ This project highlights the application of Excel’s advanced functionalities—
 | 6 | Top Performing Product | The product generating the highest sales. |
 
 ## Dashboard Interaction
-
+- <a href="https://github.com/Kiranbr01/DATA-ANALYSIS--Dashboard-using-excel/blob/main/Dashboard.png.png">Dashboard</a>
 
 ## **4. Data Analysis Process**
 The project follows a structured process as outlined below:
@@ -34,19 +34,7 @@ The project follows a structured process as outlined below:
 4. **KPI Calculation:** Formulas and pivot tables are used to calculate and display the KPIs.  
 5. **Visualization:** Dynamic dashboards, pivot charts, and trend graphs are used for visualization.  
 6. **Automation:** VBA macros are implemented to automate calculations and chart refreshes.  
-7. **Insight Generation:** Results are interpreted to identify sales patterns, profitable products, and growth opportunities.  
-
----
-
-## **5. Process Insights**
-The following insights can be derived from the analysis:
-
-- Regions with consistently high sales can be prioritized for marketing investments.  
-- Seasonal variations in monthly sales highlight demand peaks and troughs.  
-- Products with declining performance can be identified for promotional efforts.  
-- Profit margins reveal cost-effectiveness and potential pricing adjustments.  
-- The overall growth rate provides a clear measure of business expansion.  
-- Macros significantly reduce manual workload, improving analytical efficiency.  
+7. **Insight Generation:** Results are interpreted to identify sales patterns, profitable products, and growth opportunities.    
 
 ---
 
@@ -61,7 +49,10 @@ The following insights can be derived from the analysis:
 7. What insights can be drawn about customer retention patterns?  
 8. How can the organization optimize sales in low-performing regions?  
 9. What impact does seasonality have on the sales performance?  
-10. How can automation enhance accuracy and efficiency in future analyses?  
+10. How can automation enhance accuracy and efficiency in future analyses?
+
+## Dashboard
+<img width="1615" height="670" alt="Dashboard png" src="https://github.com/user-attachments/assets/15dbe77a-41fe-4b17-85d5-fc1bc0e012c3" />
 
 ---
 
