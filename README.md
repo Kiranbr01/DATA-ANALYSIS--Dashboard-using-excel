@@ -8,6 +8,7 @@ The repository contains a macro-enabled workbook named **`salesdata2.xlsm`**, de
 This project highlights the application of Excel’s advanced functionalities—such as VBA macros, pivot tables, and charts—in transforming raw data into actionable business insights
 
 ## Dataset Used
+- <a href="https://github.com/Kiranbr01/DATA-ANALYSIS--Dashboard-using-excel/blob/main/salesdata.csv">Sales Data Analysis Project</a>
 
 
 ## **3. Key Performance Indicators (KPIs)**
