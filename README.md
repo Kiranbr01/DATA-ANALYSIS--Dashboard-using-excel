@@ -21,10 +21,9 @@ This project highlights the application of Excel’s advanced functionalities—
 | 4 | Sales Growth Rate | Percentage change in sales compared to the previous period. |
 | 5 | Regional Sales Contribution | Percentage share of each region in total sales. |
 | 6 | Top Performing Product | The product generating the highest sales. |
-| 7 | Customer Retention Rate | Percentage of repeat customers over total customers. |
-| 8 | Profit Margin | Ratio of profit to total revenue. |
-| 9 | Monthly Sales Trend | Variation of sales performance across months. |
-| 10 | Sales Target Achievement | Percentage of actual sales achieved against target goals. |
+
+## Dashboard Interaction
+
 
 ## **4. Data Analysis Process**
 The project follows a structured process as outlined below:
