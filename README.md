@@ -69,8 +69,4 @@ This project highlights the potential of spreadsheet-based analytics in supporti
 - Power BI or Tableau dashboard integration for advanced analytics.  
 - Python-based automation for extended scalability and reporting.   
 
----
 
-## **11. License**
-This project is licensed for educational and non-commercial purposes.  
-Attribution to the author is appreciated when reused for academic or professional references.
